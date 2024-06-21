@@ -1,7 +1,7 @@
 # To-do-List-Basic-Version
 To-do-list basic version (Only using React)
 
-##To Run:
+## To Run:
 ```bash
    npm i
    npm run dev
